@@ -22,3 +22,8 @@ Install the necessary dependencies using the provided `requirements.txt` file.
 ```bash
 requests==2.26.0
 beautifulsoup4==4.9.3
+
+## Usage Warning
+
+- **Disclaimer**: Use these scripts at your own risk. Setting `verify=False` in requests may lead to security issues. It is recommended to set `verify=True` for secure connections .Sometimes it wont work if verify = true
+- **Ethical Use**: Usea at your won risk .Ensure legal image use and website terms compliance.
