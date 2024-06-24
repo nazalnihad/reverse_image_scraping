@@ -20,8 +20,7 @@ Performs a reverse image search for all images in a given folder and downloads a
 Install the necessary dependencies using the provided `requirements.txt` file.
 
 ```bash
-requests==2.26.0
-beautifulsoup4==4.9.3
+pip install requirements.txt
 ```
 
 ## Usage Warning
